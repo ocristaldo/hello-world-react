@@ -3,5 +3,5 @@ services:
   web:
     image: ocristaldo/hello-world-react
     ports:
-      - "3000:3000"
+      - "3050:3050"
     restart: always
